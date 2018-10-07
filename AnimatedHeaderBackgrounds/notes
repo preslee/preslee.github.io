@@ -1,0 +1,14 @@
+<div class='first-page'>
+    <canvas>
+    <div class='floating-div'>
+        <title>
+        <links>
+        ...
+    </div>
+</div>
+// CSS 
+.flaoting-div {
+    position: absolute;
+    top: 50%;
+    ...
+}
